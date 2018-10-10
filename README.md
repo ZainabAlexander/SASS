@@ -22,6 +22,7 @@ introduction to sass
  ## Partials;
  - Created Partials.
  - imported partials via main.scss
+ - Created a new partial called layout
 
  ## Link to live website:
  https://zainabalexander.github.io/sass/index.html
