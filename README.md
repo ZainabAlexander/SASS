@@ -19,5 +19,9 @@ introduction to sass
  - Step 9: Create and save a stylesheet within the scss folder with the extension            .scss
  -Step 10: Link the index.html with your .css.
 
+ ## Partials;
+ - Created Partials.
+ - imported partials via main.scss
+
  ## Link to live website:
  https://zainabalexander.github.io/sass/index.html
